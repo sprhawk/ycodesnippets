@@ -11,3 +11,6 @@ If using trackpad/macbook(pro) in 'tap to click' mode, and have trouble in dragg
 2. Edit the snippet name, summary and shortcut.
 
 3. Have a try. 
+
+
+**Or** just copy the files under codesnippets, to the ~/Library/Developer/XCode/UserData/CodeSnippets/
