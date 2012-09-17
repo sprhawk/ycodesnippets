@@ -14,3 +14,12 @@ If using trackpad/macbook(pro) in 'tap to click' mode, and have trouble in dragg
 
 
 **Or** just copy the files under codesnippets, to the ~/Library/Developer/XCode/UserData/CodeSnippets/
+
+
+
+sources:
+@property (nonatomic, retain, <#read/write#>) <#Type#> <#property#>;
+@property (nonatomic, assign, <#read/write#>) <#Type#> <#property#>;
+@property (nonatomic, copy, <#read/write#>) <#Type#> <#property#>;
+@property (nonatomic, strong, <#read/write#>) <#Type#> <#property#>;
+@property (nonatomic, weak, <#read/write#>) <#Type#> <#property#>;
